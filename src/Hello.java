@@ -7,7 +7,9 @@ public class Hello {
 
         int myCombinedNumbers = myFirstNumber + mySecondNumber + myThirdNumber;
 
-        System.out.println(myCombinedNumbers);
+        int myLastValue = myCombinedNumbers - 1000;
+
+        System.out.println(myLastValue);
     }
 
 
