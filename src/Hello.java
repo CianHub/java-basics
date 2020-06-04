@@ -5,7 +5,9 @@ public class Hello {
         int mySecondNumber = 12;
         int myThirdNumber = 6;
 
-        System.out.println(myFirstNumber + mySecondNumber + myThirdNumber);
+        int myCombinedNumbers = myFirstNumber + mySecondNumber + myThirdNumber;
+
+        System.out.println(myCombinedNumbers);
     }
 
 
